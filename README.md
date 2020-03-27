@@ -9,7 +9,7 @@ https://www.fumired.com.mx/App/Administrativo/
 #### CALLPICKER:
 https://my.callpicker.com/
 
-### DESCARGAS
+### DESCARGAS DE APLICACIONES QUE PUEDES NECESITAR
 
 #### DESCARGAR FILE STREAM:
 https://support.google.com/a/answer/7491144?hl=es
@@ -17,7 +17,7 @@ https://support.google.com/a/answer/7491144?hl=es
 #### DESCARGAR ANYDESK
 https://anydesk.com/es
 
-#### DESCARGAR CHAT HANGOUTS:
+#### DESCARGAR CHAT GOOGLE:
 https://chat.google.com/download/
 
 #### DESCARGAR MICROSIP:
