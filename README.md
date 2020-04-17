@@ -2,9 +2,7 @@
 Enlaces de interés para FUMIRED
 Aquí puedes descargar algunos manuales u obtener enlaces de descarga de aplicaciones que usas cotidianamente.
 
-### LINKS FUMIRED
-#### CRM: 
-https://www.fumired.com.mx/App/Administrativo/
+### LINKS QUE PUEDES NECESITAR
 
 #### CALLPICKER:
 https://my.callpicker.com/
@@ -20,6 +18,5 @@ https://anydesk.com/es
 #### DESCARGAR CHAT GOOGLE:
 https://chat.google.com/download/
 
-#### DESCARGAR MICROSIP:
-https://www.microsip.org/downloads
+
 
